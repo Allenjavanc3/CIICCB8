@@ -6,7 +6,7 @@ public class arraySample {
         String userName[] = {"allen0010","azariah123","anya234","ver1026","lilo456"};
         String passWord[] = {"nope123","dad224","cute123","toyo233","pusa111"};
 
-            int i =0;
+            int i =1;
 
         System.out.println("Index    : "+ i);
         System.out.println("Email    : "+email[i]);
