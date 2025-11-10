@@ -33,6 +33,8 @@ public class iFStatementLesson {
                   
                     case 6:
                     case 7:System.out.println("Weekends");
+                    break;
+                    
                    
             }
 
